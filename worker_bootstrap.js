@@ -1,4 +1,3 @@
-// Allow access to this file if using html.cafe
 Access-Control-Allow-Origin: https://html.cafe
 
 onmessage = function (o) {
